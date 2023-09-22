@@ -1,0 +1,23 @@
+# Unity Generated #
+Temp/
+Library/
+ProjectSettings/ProjectSettings.asset
+
+# Backups #
+*.bak
+*.unitybackup
+
+# \builds\ #
+build/
+Build/
+BUILD/
+
+# Special files #
+Icon?
+*.mdb
+*.tgz
+
+# Directories #
+.obj/
+*.svd
+.DS_Store
